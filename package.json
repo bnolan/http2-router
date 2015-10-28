@@ -1,0 +1,17 @@
+{
+  "name": "router-http2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.7.1",
+    "finalhandler": "^0.4.0",
+    "http2": "^3.2.0",
+    "router": "^1.1.3"
+  }
+}
